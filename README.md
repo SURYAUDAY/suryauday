@@ -27,13 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SURYAUDAY&label=Profile%20views&color=0e75b6&style=flat" alt="Suryauday" /> </p>
 
-- 🌱 I'm currently learning **NestJS & GraphQL**
-
-- 💬 Ask me about **NodeJS**
-
 - 📫 How to reach me **suryauday245@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny😅**
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
